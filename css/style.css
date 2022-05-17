@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
+
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
  
  /* *{
@@ -20,7 +20,7 @@ body{
 
 
 .content{
-    background-image: url("/images/linkedin_banner_image_1.png");
+    background-image: url("/images/linkedin_banner_image_1.png") !important;
     top: 0;
     left: 0;
     
